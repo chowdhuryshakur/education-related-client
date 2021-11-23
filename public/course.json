@@ -1,0 +1,51 @@
+[
+    {
+        "_id": "61500bc49fecf8269038f92b",
+        "hadiya": 189946,
+        "picture": "https://quranonline.com/wp-content/uploads/2021/04/A-Look-at-the-Important-Reasons-for-Learning-Quran-1024x576.jpg",
+        "name": "Akidha",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc4fa4d0a69c49017a3",
+        "hadiya": 353357,
+        "picture": "https://alhamdislamictutor.com/wp-content/uploads/2019/07/Learn-Quran-With-Tajweed.jpg",
+        "name": "Fikh",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc465de75cdadd96e57",
+        "hadiya": 264161,
+        "picture": "https://www.quranhost.com/wp-content/uploads/2018/12/5-Best-Online-Quran-Learning-Tips-on-a-Daily.jpg",
+        "name": "Quranic Language",
+        "ratings": 3
+    },
+    {
+        "_id": "61500bc412fdb8e2af171a5d",
+        "hadiya": 254719,
+        "picture": "https://5.imimg.com/data5/MD/CE/MC/SELLER-2029021/hadith-books-500x500.jpg",
+        "name": "Tafseer",
+        "ratings": 5
+    },
+    {
+        "_id": "61500bc4bfae33d32aca8fd2",
+        "hadiya": 181616,
+        "picture": "https://themuslimahdiariesblog.files.wordpress.com/2018/04/islamic-books.jpg?w=1280&h=719&crop=1",
+        "name": "Bukhari",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc4846a1cd45c301482",
+        "hadiya": 123102,
+        "picture": "https://i1.wp.com/riwaqalazhar.com/wp-content/uploads/2020/09/Learn-Quran-Online-Pros-and-Cons-of-Online-Quran-Learning-1.jpg?resize=1024%2C571&ssl=1",
+        "name": "Quranic Science",
+        "ratings": 4
+    },
+    {
+        "_id": "61500bc412a69497abecccbe",
+        "hadiya": 191285,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7Y7niRZPo9f4t4j1RHow3oPgLDDyLdmXQlcjew724sJNe1_Dbi0Pao2eOgzHKgtaFZ8&usqp=CAU",
+        "name": "Sahih Muslim",
+        "ratings": 4
+    }
+]
